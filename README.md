@@ -10,7 +10,7 @@
 - 💬 If you have any question/feedback, please do not hesitate to reach out to me!
 
 ## Connect with me:
-<a href="https://www.linkedin.com/in/gus-bikos/"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"" alt="Yu Shi | LinkedIn" width="21px"/></a>
+<a href="https://www.linkedin.com/in/gus-bikos/"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"" alt="Gus Bikos | LinkedIn" width="21px"/></a>
 
 
 <!-- [![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=gusbikos)](https://github.com/gusbikos)
