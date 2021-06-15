@@ -45,6 +45,11 @@
 
 ##  📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Props vs State](https://dev.to/gusbikos/props-vs-state-406j)
+- [Creating a Rails API from scratch.](https://dev.to/gusbikos/creating-a-rails-api-from-scratch-1d7m)
+- [A simple auth guide for Ruby on Rails](https://dev.to/gusbikos/a-simple-auth-guide-for-ruby-on-rails-7ck)
+- [Ruby Gems](https://dev.to/gusbikos/ruby-gems-2p09)
+- [The Start of a Coding Bootcamp](https://dev.to/gusbikos/the-start-of-a-coding-bootcamp-3mff)
 <!-- BLOG-POST-LIST:END -->
 
 
