@@ -39,6 +39,14 @@
 ![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=Git&color=F05032)
 ![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&color=181717)
 
+</br>
+</br>
+
+### Latest Blog Posts
+<!-- BLOG-POST-LIST:START -->
+
+<!-- BLOG-POST-LIST:END -->
+
 
 <!-- [![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=gusbikos)](https://github.com/gusbikos)
  -->
