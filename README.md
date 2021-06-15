@@ -11,7 +11,7 @@
 
 ## Connect with me:
 
-[<img align="left" alt="GusBikos | Twitter" width="22px" src="https://www.creativefreedom.co.uk/wp-content/uploads/2017/06/Twitter-featured.png" />][twitter]
+[<img align="left" alt="GusBikos | Twitter" width="22px" src="https://twitter.com/GusBikos" />][twitter]
 [<img align="left" alt="GusBikos | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 
