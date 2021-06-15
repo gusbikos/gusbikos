@@ -11,6 +11,7 @@
 
 ## Connect with me:
 <a href="https://www.linkedin.com/in/gus-bikos/"><img align="left" src="https://image.flaticon.com/icons/png/512/174/174857.png" width="21px"/></a>
+<a href="https://twitter.com/GusBikos"><img align="left" src="https://www.creativefreedom.co.uk/wp-content/uploads/2017/06/Twitter-logo-2012.png" width="21px"/></a>
 
 </br>
 </br>
