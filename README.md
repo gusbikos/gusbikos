@@ -5,7 +5,7 @@
 ##  I'm a Full-Stack Software Engineer 💻
 
 - 🔭 I'm currently trying to improve my CSS skills
-- 🔭 I'm currently learning TypeScript
+- 🔭 I'm currently learning Python
 - 👯 I’m looking to collaborate with others
 - 💬 If you have any question/feedback, please do not hesitate to reach out to me!
 
