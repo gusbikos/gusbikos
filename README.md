@@ -7,7 +7,7 @@
 - 🔭 I'm currently trying to improve my CSS skills
 - 🔭 I'm currently learning Python
 - 👯 I’m looking to collaborate with others
-- 💬 If you have any question/feedback, please do not hesitate to reach out to me!
+- 💬 If you have any questions/feedback, please do not hesitate to reach out to me!
 
 ## Connect with me:
 <a href="https://www.linkedin.com/in/gus-bikos/"><img align="left" src="https://image.flaticon.com/icons/png/512/174/174857.png" width="21px"/></a>
