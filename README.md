@@ -3,13 +3,12 @@
 
 ##  I'm a Full-Stack Software Engineer 💻
 
-- 🔭 I'm currently trying to improve my CSS skills
-- 🔭 I'm currently learning Python
+- 🔭 I'm currently learning Python, TypeScript, Angular
 - 👯 I’m looking to collaborate with others
 - 💬 If you have any questions/feedback, please do not hesitate to reach out to me!
 
 ## Connect with me:
-<a href="https://www.linkedin.com/in/art%C5%ABrs-smirnovs-b6399275/" target="_blank"><img src="https://raw.githubusercontent.com/gusbikos/gusbikos/master/in.png" alt="LinkedIn" width="30"></a>
+
 
 </br>
 </br>
