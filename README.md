@@ -9,7 +9,7 @@
 - 💬 If you have any questions/feedback, please do not hesitate to reach out to me!
 
 ## Connect with me:
-<a href="https://www.linkedin.com/in/gus-bikos/"><img align="left" src="https://raw.githubusercontent.com/gusbikos/gusbikos/main/images/linkedin.svg" alt="Gus Bikos | LinkedIn" width="21px"/></a>
+<a href="https://www.linkedin.com/in/gus-bikos/"><img align="left" src="https://raw.githubusercontent.com/gusbikos/gusbikos/main/images/linkedin.svg" alt="" width="21px"/></a>
 
 </br>
 </br>
