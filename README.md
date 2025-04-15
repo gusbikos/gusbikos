@@ -3,7 +3,6 @@
 
 ##  I'm a Full-Stack Software Engineer 💻
 
-- 🔭 I'm currently learning Python, TypeScript, Angular
 - 👯 I’m looking to collaborate with others
 - 💬 If you have any questions/feedback, please do not hesitate to reach out to me!
 
